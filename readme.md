@@ -4,9 +4,9 @@ Este projeto é um exemplo de aplicação web desenvolvida com Bootstrap 5, Anim
 
 ## Prints do Projeto
 
--![Captura de Tela Principal](https://github.com/cristianbrunone/projeto-social/blob/main/css/capture_screen.png)
--![Captura de Tela Principal](https://github.com/cristianbrunone/projeto-social/blob/main/css/capture_screen.png)
--![Captura de Tela Principal](https://github.com/cristianbrunone/projeto-social/blob/main/css/capture_screen.png)
+-![Captura de Tela Principal](https://github.com/cristianbrunone/EAD-02/blob/main/assets/index.png)
+-![Captura de Tela Principal](https://github.com/cristianbrunone/EAD-02/blob/main/assets/index2.png)
+-![Captura de Tela Principal](https://github.com/cristianbrunone/EAD-02/blob/main/assets/index3.png)
 
 ## Descrição do Projeto
 
@@ -22,7 +22,7 @@ O código-fonte está estruturado para facilitar a personalização dos estilos 
 ## Tecnologias Utilizadas
 
 - **HTML5** para estruturação da página.
-- **CSS3** e **Bootstrap 5** para estilos e responsividade.
+- **Bootstrap 5** para estilos e responsividade.
 - **Animate.css** para animações de elementos.
 - **Google Fonts** para tipografia personalizada.
 - **JavaScript** (Bootstrap Bundle) para interatividade, como o funcionamento do carousel e menu responsivo.
