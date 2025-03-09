@@ -1,14 +1,12 @@
 # Flutter Apps - Exemplo com Bootstrap 5
 
-Este projeto é um exemplo de aplicação web desenvolvida com Bootstrap 5, Animate.css e outros recursos modernos. O objetivo da atividade EAD é demonstrar o uso de animações e recursos visuais para criar uma interface dinâmica e responsiva.
+Este projeto é um exemplo de aplicação web desenvolvida com Bootstrap 5, Animate.css e outros recursos modernos. O objetivo da atividade EAD é demonstrar o uso do bootstrap 5 e recursos visuais para criar uma interface dinâmica e responsiva.
 
-## Sumário
+## Prints do Projeto
 
-- [Descrição do Projeto](#descrição-do-projeto)
-- [Tecnologias Utilizadas](#tecnologias-utilizadas)
-- [Instalação e Execução](#instalação-e-execução)
-- [Prints](#prints)
-- [Considerações Finais](#considerações-finais)
+-![Captura de Tela Principal](https://github.com/cristianbrunone/projeto-social/blob/main/css/capture_screen.png)
+-![Captura de Tela Principal](https://github.com/cristianbrunone/projeto-social/blob/main/css/capture_screen.png)
+-![Captura de Tela Principal](https://github.com/cristianbrunone/projeto-social/blob/main/css/capture_screen.png)
 
 ## Descrição do Projeto
 
@@ -33,4 +31,4 @@ O código-fonte está estruturado para facilitar a personalização dos estilos 
 
 1. **Clone o repositório:**
    ```bash
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
+   git clone https://github.com/cristianbrunone/EAD-02.git
