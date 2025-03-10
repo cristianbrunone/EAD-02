@@ -79,13 +79,35 @@ body {
 }
 
 .hero-section img {
-  width: 60%;
+  width: 40%;
   max-height: 700px;
   margin-top: -60px;
   object-fit: cover;
   border-radius: 10px;
   animation: floatAnimation 2.5s ease-in-out infinite;
 }
+
+
+@media (min-width: 1200px) {
+  .hero-section img {
+    width: 40%;
+  }
+}
+
+
+@media (max-width: 1199px) and (min-width: 768px) {
+  .hero-section img {
+    width: 50%;
+  }
+}
+
+
+@media (max-width: 767px) {
+  .hero-section img {
+    width: 60%;
+  }
+}
+
 
 /* =======================================
    SEÇÃO SOBRE
